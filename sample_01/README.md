@@ -22,6 +22,8 @@ If you install node.js in your machine then you need to type the following comma
 
 > tsc greeter.ts
 
+> start employee.html
+
 *This project is a very basic project to understand how the typescript works !!*
 
 **This project has only one ts(typescript) file and one html file. 
