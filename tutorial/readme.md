@@ -7,6 +7,11 @@
 
 **2. 02_variable_declaration.ts**
 
+| Order         | File Name                    | 
+| ------------- |:---------------------------: | 
+| 1             | 01_basic_types.ts            | 
+| 2             | 02_variable_declaration.ts   | 
+
 
 
 
