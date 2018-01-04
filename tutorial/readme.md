@@ -3,10 +3,10 @@
 ## File List
 ----------------------------------
 
-1.**01_basic_types.ts**
+**1.01_basic_types.ts**
 
 
-tutorial folder path are *tutorial* folder. 
+tutorial folder path are [tutorial](/tutorial) folder. 
 
 ## Compiling Code
 --------------------------
