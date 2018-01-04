@@ -6,7 +6,7 @@
 **1.01_basic_types.ts**
 
 
-tutorial folder path are [tutorial](/tutorial) folder. 
+Wants to go sample_01 folder ? Click  [here](/sample_01)
 
 ## Compiling Code
 --------------------------
