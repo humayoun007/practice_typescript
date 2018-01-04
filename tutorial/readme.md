@@ -6,7 +6,7 @@
 **1.01_basic_types.ts**
 
 
-Wants to go sample_01 folder ? Click  [here](/sample_01)
+Wants to go in sample_01 folder ? Click  [here](/sample_01)
 
 ## Compiling Code
 --------------------------
