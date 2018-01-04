@@ -6,7 +6,7 @@
 **1.01_basic_types.ts**
 
 
-Wants to go in sample_01 folder ? Click  [here](/sample_01)
+
 
 ## Compiling Code
 --------------------------
@@ -16,5 +16,8 @@ Wants to go in sample_01 folder ? Click  [here](/sample_01)
 > tsc 01_basic_types.ts
 
 > node 01_basic_types.js
+
+
+Wants to go in sample_01 folder ? Click  [here](/sample_01)
 
 
