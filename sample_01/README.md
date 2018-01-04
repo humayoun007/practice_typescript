@@ -73,3 +73,4 @@ document.body.innerHTML = sayWelcome(personName);
 </html>
 
 ```
+Wants to go in tutorial folder ? Click [here](/tutorial)
