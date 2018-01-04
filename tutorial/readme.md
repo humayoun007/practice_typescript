@@ -3,8 +3,8 @@
 ## File List
 ----------------------------------
 
-**1.01_basic_types.ts**
-**2.02_variable_declaration.ts**
+**1. 01_basic_types.ts**
+**2. 02_variable_declaration.ts**
 
 
 
