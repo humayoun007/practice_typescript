@@ -1,4 +1,5 @@
 # Just Follow the file sequence with comment , i hope you can understand everything.
+## If you have short time then you can follow Typescript_ShortTime.ts file 
 
 ## File List
 ----------------------------------
@@ -7,6 +8,7 @@
 | ------------- |:---------------------------  | 
 | 1             | 01_basic_types.ts            | 
 | 2             | 02_variable_declaration.ts   | 
+| 3             | Typescript_ShortTime.ts      | 
 
 
 
